@@ -16,7 +16,7 @@ The K-means clustering algorithm represents each cluster by its correspoinding c
 
 ### Run it in your local Python environment
 * You can download the notebook from my GitHub repository and run it in your local Python environment using either browser interface to Jupyter/JupyterLab, or Visual Studio Code.
-* Since I uploaded the notebook in a pdf file type, you should first convert it into a
+* Since I uploaded the notebook in a pdf file format, you should first convert it into a jupyter notebook to make it executable
 ```sh
 .ipynb notebook
 ```
