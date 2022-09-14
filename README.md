@@ -14,7 +14,8 @@ The K-means clustering algorithm represents each cluster by its correspoinding c
 
 ## How to run this project from GitHub
 ### Method 1 : Using Binder
-* Since I uploaded the notebook in a pdf file type, you should first convert it in a ```sh
+* Since I uploaded the notebook in a pdf file type, you should first convert it in a
+```sh
 .ipynb
 ```
 * MyBinder.org is a great project that allows you to create virtualized Jupyter Notebook environment from any GitHub repository. 
